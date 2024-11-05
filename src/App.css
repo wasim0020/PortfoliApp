@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.h{
+  height: 220px;
+  width: 100%;
+  background-color: rgb(67, 56, 56);
+  text-align: center;
+}
+
+.f{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.c:hover {
+  text-decoration: underline;
+}
+
+.about{
+  height: 300px;
+  width: 100%;
+  padding: 100px;
+  text-align: center;
+  background-color: gainsboro;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+
+.project{
+  height: 700px;
+  width: 100%;
+  text-align: center;
+  padding: 100px;
+  background-color: beige;
+}
